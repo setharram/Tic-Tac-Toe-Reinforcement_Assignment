@@ -28,5 +28,8 @@ below are the hyperparameters
 * learning-rate,
 * discount factor.
 
+I have randomly pick up the value, one can futher tune, and can find the which factor contribute more for new Q dictionary update and state/action reward accuracy. 
+
+Valuation:- 
 Graph to show Q-values convergence- check whether Q-values learnt by the agent have converged or not. Sample 4 state-action pairs and plot it with the number of episodes to understand the convergence.
 this is make sure model is learning in positive direction. 
